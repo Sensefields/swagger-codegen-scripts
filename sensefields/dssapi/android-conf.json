@@ -1,0 +1,1 @@
+{"groupId" : "com.sensefields.dss", "artifactId" : "dssapiandroidcli", "artifactVersion" : "1.1.2","library" : "okhttp-gson", "invokerPackage":"com.sensefields.dss","apiPackage": "com.sensefields.dss.api", "modelPackage": "com.sensefields.dss.model"}

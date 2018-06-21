@@ -1,0 +1,1 @@
+{"groupId" : "com.sensefields.production", "artifactId" : "productionapijavacli", "artifactVersion" : "1.0.0","library" : "okhttp-gson", "invokerPackage":"com.sensefields.production","apiPackage": "com.sensefields.production.api", "modelPackage": "com.sensefields.production.model"}
